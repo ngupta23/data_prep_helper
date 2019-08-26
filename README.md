@@ -1,6 +1,6 @@
 # "data_prep_helper" Package
 
-This is a helper package for preparing and combining data from a variety of sourcesas described in the Overview section below. 
+This is a helper package for preparing and combining data from a variety of sources as described in the Overview section below. 
 
 # Installation
 
